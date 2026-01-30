@@ -1,74 +1,28 @@
-#+BEGIN_SRC
-  /\_/\   jonathanchu@github
- ( o.o )  -------------------
-  > ^ <   shell: fish
- /|   |\  editor: emacs
-(_|   |_) os: mac, fedora
-#+END_SRC
+** Hi there 👋
 
-#+BEGIN_SRC bash
-jonathanchu@github:~$ whoami
-#+END_SRC
+I'm an engineer who likes to solve problems. I love Emacs, Git, and building tools.
 
-#+BEGIN_QUOTE
-I'm an engineer who likes to solve problems.
-I love Emacs, Git, and building tools.
-#+END_QUOTE
+- 🐚 *Shell:* fish 🐟
+- ✏️ *Editor:* Emacs 🦬
+- 💻 *OS:* macOS 🍎, Fedora 🐧
 
-#+BEGIN_SRC bash
-jonathanchu@github:~$ cat interests.txt
-#+END_SRC
+*** Interests
 
-#+BEGIN_SRC
-- Emacs                      - Open Source
-- Functional Programming     - Systems Design
-- Machine Learning            - Git
-#+END_SRC
+- Emacs
+- Open Source
+- Functional Programming
+- Systems Design
+- Machine Learning
+- Git
 
-#+BEGIN_SRC bash
-jonathanchu@github:~$ ls -la projects/
-#+END_SRC
+*** Now
 
-#+BEGIN_SRC
-drwxr-xr-x  project-one      # dotemacs
-drwxr-xr-x  project-two      # magit-git-toolbelt
-drwxr-xr-x  project-three    # magit-gh
-#+END_SRC
+- Currently working on: 👩 👧 👦 👦 🐶 🐶 🐱
+- Currently learning: always
+- Fun fact: Once the top Elisp programmer on GitHub by mass of stars in NYC
 
-#+BEGIN_SRC bash
-jonathanchu@github:~$ cat toolbox.md
-#+END_SRC
+*** Contact
 
-| Category   | Tools                                                                      |
-|------------+----------------------------------------------------------------------------|
-| Languages  | =Python= =Emacs Lisp= =TypeScript= =JavaScript= =Clojure 🌱= =Rust 🌱= |
-| Frameworks | =Django= =React= =Vue.js=                                                 |
-| Tools      | =Emacs= =Git= =Magit= =Docker=                                           |
-| Platforms  | =macOS= =Fedora= =AWS=                                                    |
-
-#+BEGIN_SRC bash
-jonathanchu@github:~$ curl -s localhost/now
-#+END_SRC
-
-#+BEGIN_SRC json
-{
-  "currently_working_on": "👩 👧 👦 👦 🐶 🐶 🐱",
-  "currently_learning": "always",
-  "fun_fact": "Once the top Elisp programmer on GitHub by mass of stars in NYC"
-}
-#+END_SRC
-
-#+BEGIN_SRC bash
-jonathanchu@github:~$ cat contact.sh && chmod +x contact.sh && ./contact.sh
-#+END_SRC
-
-#+BEGIN_SRC
-#!/bin/bash
-echo "Website:   https://jonathanchu.is"
-echo "LinkedIn:  https://linkedin.com/in/jonathanchu13"
-echo "Bluesky:   https://bsky.app/profile/jonathanchu.lol"
-#+END_SRC
-
------
-
-Last login: Thu Jan 29 09:00:00 2026 from github.com
+- *Website:* [[https://jonathanchu.is]]
+- *LinkedIn:* [[https://linkedin.com/in/jonathanchu13]]
+- *Bluesky:* [[https://bsky.app/profile/jonathanchu.lol]]
