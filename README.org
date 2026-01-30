@@ -1,6 +1,6 @@
 ** Hi there 👋
 
-I'm an engineer who likes to solve problems. I love Emacs, Git, and building tools.
+I'm Jonathan! I'm an engineer who loves to solve hard problems.
 
 - 🐚 *Shell:* fish 🐟
 - ✏️ *Editor:* Emacs 🦬
@@ -19,7 +19,7 @@ I'm an engineer who likes to solve problems. I love Emacs, Git, and building too
 
 - Currently working on: 👩 👧 👦 👦 🐶 🐶 🐱
 - Currently learning: always
-- Fun fact: Once the top Elisp programmer on GitHub by mass of stars in NYC
+- Fun fact: I was once the top Elisp programmer in NYC by GitHub stars ✨⭐✨
 
 *** Contact
 
