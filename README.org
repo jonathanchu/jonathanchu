@@ -2,10 +2,12 @@
 
 I'm Jonathan! I'm an engineer who loves to solve problems.
 
+*** Toolbox
+
+- >_ *Terminal:* Ghostty 👻
 - 🐚 *Shell:* fish 🐟
 - ✏️ *Editor:* Emacs 🦬
 - 💻 *OS:* macOS 🍎, Fedora 🐧
-
 
 *** Contact
 
