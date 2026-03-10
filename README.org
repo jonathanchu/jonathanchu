@@ -10,6 +10,10 @@ I'm Jonathan! I'm an engineer who loves to solve problems.
 - 🍎 *macOS:* Mac Studio M1 Max 🖥️
 - 🐧 *Fedora:* ThinkPad T14 💻
 
+*** Projects
+
+- 🪟 *Windowcraft:* A lightweight macOS window manager — [[https://windowcraft.app]]
+
 *** Contact
 
 - *Website:* [[https://jonathanchu.is]]
