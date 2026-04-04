@@ -13,6 +13,8 @@ I'm Jonathan! I'm an engineer who loves to solve problems.
 *** Projects
 
 - 🪟 *Windowcraft:* A lightweight macOS window manager — [[https://windowcraft.app]]
+- 🌳 *Grove:* An Obsidian-like note-taking mode for Emacs — [[https://github.com/jonathanchu/grove]]
+- 📋 *Docket:* Todoist-inspired GTD for Emacs, powered by org files — [[https://github.com/jonathanchu/docket]]
 
 *** Contact
 
